@@ -1,0 +1,8 @@
+== author ==
+@sha0coder
+
+== description ==
+Check the response time of a site, and generates a csv with this information.
+This is useful for monitoring denial of service tests.
+
+
